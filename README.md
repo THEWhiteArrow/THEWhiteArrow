@@ -17,7 +17,10 @@
 
 # Let's connect ! 📫 
  - Hit me up on email : [damian.trafialek@gmail.com](mailto:damian.trafialek@gmail.com) 📬
- - Connect on [LinkedIn](https://www.linkedin.com/in/damian-trafia%C5%82ek-078298249/) 📂
+ - Connect on [LinkedIn](https://www.linkedin.com/in/damian-trafialek/) 📂
+ <a href="https://linkedin.com/in/damian-trafialek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian trafialek" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100028115170023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damian trafialek facebook" height="30" width="40" /></a> 
+ 
 
 <!--
 **THEWhiteArrow/THEWhiteArrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
