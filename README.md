@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋, my name is Damian Trafiałek
 
 
-# How am I ?🤔
- - International Student 👨‍🎓
+# Who am I ?🤔
+ - International Software Techonology Engineering Student 👨‍🎓
  - Juniort Software Developer 🖥
  - Gym Rat 💪
  - Table Tennis Passionate 🏓
