@@ -22,7 +22,7 @@
  
  
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java,gcp,azure,react,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java,gcp,azure,react,&perline=10)](https://skillicons.dev)
 <!--
 **THEWhiteArrow/THEWhiteArrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
