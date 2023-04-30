@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 # Projects Highlights:
  - First project for the real client : 
  <br />
- [![Readme Card]](https://github-readme-stats.vercel.app/api/pin/?username=THEWhiteArrow&repo=ortodentica)](https://github.com/THEWhiteArrow/ortodentica)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THEWhiteArrow&repo=ortodentica)](https://github.com/THEWhiteArrow/ortodentica)
  <br />
  - First project that was installed by over 10k+ users on Google Spreadsheets : 
- [![Readme Card]](https://github-readme-stats.vercel.app/api/pin/?username=THEWhiteArrow&repo=pixel-art-app-script)](https://github.com/THEWhiteArrow/pixel-art-app-script) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THEWhiteArrow&repo=pixel-art-app-script)](https://github.com/THEWhiteArrow/pixel-art-app-script) 
  . Install on [Google Marketplace](https://workspace.google.com/u/0/marketplace/app/pixel_art_creator/869152467548)
