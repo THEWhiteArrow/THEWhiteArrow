@@ -7,9 +7,17 @@
  - Gym Rat 💪
  - Table tennis passionate 🏓
 
-#  How to reach me ? 📫 
- - Ping me on email : [damian.trafialek@gmail.com](mailto:damian.trafialek@gmail.com) 📬
- - Let's connect on [LinkedIn](https://www.linkedin.com/in/damian-trafia%C5%82ek-078298249/) 📂
+# My Strong Traits 🤪 :
+ - Never give up
+ - Meticulous
+ - Ambitious
+ - Creative
+ - Lorem ipsum dolor, oh wow, you read it 🤗
+
+# Let's connect ! 📫 
+ - Hit me up on email : [damian.trafialek@gmail.com](mailto:damian.trafialek@gmail.com) 📬
+ - Connect on [LinkedIn](https://www.linkedin.com/in/damian-trafia%C5%82ek-078298249/) 📂
+
 <!--
 **THEWhiteArrow/THEWhiteArrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
