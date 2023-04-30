@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=THEWhiteArrow&theme=dracula)](https://git.io/streak-stats)
 <br />
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THEWhiteArrow&count_private=true&include_all_commits=true&theme=dracula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=THEWhiteArrow&theme=dracula&hide_border=true)](https://github.com/THEWhiteArrow/ortodentica)
-
-
 <br />
 
 
