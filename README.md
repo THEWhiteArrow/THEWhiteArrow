@@ -5,7 +5,7 @@
  - International Student 👨‍🎓
  - Juniort Software Developer 🖥
  - Gym Rat 💪
- - Table tennis passionate 🏓
+ - Table Tennis Passionate 🏓
 
 # My Strong Traits 🤪 :
  - Never give up
