@@ -13,6 +13,7 @@
  - Ambitious
  - Creative
  - Lorem ipsum dolor, oh wow, you read it 🤗
+ - Smart (you don't know I this profile page was generate by me or ChatGPT under my precise commands 😳
 
 # Let's connect ! 📫 
  - Hit me up on email : [damian.trafialek@gmail.com](mailto:damian.trafialek@gmail.com) 📬
