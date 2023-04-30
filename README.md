@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Damian Trafiałek
+# <div style="width:100%; display:flex; justify-content:center; text-align:center;">Hi there 👋, my name is Damian Trafiałek</div>
 
 
 ## Who am I ?🤔
