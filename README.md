@@ -15,6 +15,9 @@
  - Lorem ipsum dolor, oh wow, you read it 🤗
  - Smart (you don't know if this profile page was generate by me or ChatGPT under my precise commands 😳
 
+## My Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ed1d44f-9066-4d6c-8366-d84c3e26cea1/deploy-status)](https://app.netlify.com/sites/whimsical-malasada-c90030/deploys)
+
 ## Let's Connect ! 📫  
  <a href="https://linkedin.com/in/damian-trafialek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian trafialek" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028115170023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damian trafialek facebook" height="30" width="40" /></a> 
