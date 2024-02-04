@@ -13,7 +13,7 @@
  - Ambitious
  - Creative
  - Lorem ipsum dolor, oh wow, you read it 🤗
- - Smart (you don't know if this profile page was generate by me or ChatGPT under my precise commands 😳
+ - Smart 😳
 
 ## Let's Connect ! 📫  
  <a href="https://linkedin.com/in/damian-trafialek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian trafialek" height="30" width="40" /></a>
